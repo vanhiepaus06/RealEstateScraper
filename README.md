@@ -21,17 +21,17 @@ This project scrapes real estate data from a website and saves it to CSV files.
 
 1. Run the scraping script:
     ```sh
-    python scrape_real_estate.py
+    python Realestate.ipynb
     ```
 
-2. After scraping, merge the CSV files:
+2. run the merge the CSV files code:
     ```sh
-    python merge_csv_files.py
+    python Realestate.ipynb
     ```
 
 ## Files
 
-- `scrape_real_estate.py`: Script to scrape data and save to individual CSV files and merge all individual CSV files into one.
+- `Realestate.ipynb.`: Script to scrape data and save to individual CSV files and merge all individual CSV files into one.
 
 ## Notes
 
