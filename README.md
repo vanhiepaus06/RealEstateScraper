@@ -31,8 +31,7 @@ This project scrapes real estate data from a website and saves it to CSV files.
 
 ## Files
 
-- `scrape_real_estate.py`: Script to scrape data and save to individual CSV files.
-- `merge_csv_files.py`: Script to merge all individual CSV files into one.
+- `scrape_real_estate.py`: Script to scrape data and save to individual CSV files and merge all individual CSV files into one.
 
 ## Notes
 
